@@ -1,5 +1,7 @@
 # 0x00. AirBnB clone - The console
 
+## RESOURCES_USED:
+
 ## 0x00.Table of contents
 
 - [0x01 Introduction](#0x01-Introduction)
